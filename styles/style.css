@@ -385,6 +385,7 @@ aside{
 .new{
     padding: 30px;
     background-color: #EFEFEF;
+    border-radius: 10px;
 }
 
 .news{
@@ -394,6 +395,7 @@ aside{
 }
 /* Responsiveness */
 @media (max-width: 1163px) {
+    
     .newon{
         flex-direction: column;
         gap: 30px;
